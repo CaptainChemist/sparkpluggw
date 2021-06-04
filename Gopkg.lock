@@ -59,7 +59,7 @@
   revision = "99fa1f4be8e564e8a6b613da7fa6f46c9edafc6c"
 
 [[projects]]
-  branch = "master"
+  branch = "0.25.0"
   name = "github.com/prometheus/common"
   packages = [
     "expfmt",
